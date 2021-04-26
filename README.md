@@ -1,5 +1,5 @@
-### Hi there I am 
-#### Maria  Paul :woman:
+### Hi there !
+# Maria  Paul :woman:
 
 * 🔭 I’m currently  pursuing my Btech CSE at College of Engineering Trivandrum
 * 🌱 I’m currently learning  Python 
