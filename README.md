@@ -1,5 +1,7 @@
 ### Hi there !
-# Maria  Paul :woman:
+## Maria  Paul :woman:
+
+![GitHub Logo](/images/logo.png)
 
 * 🔭 I’m currently  pursuing my Btech CSE at College of Engineering Trivandrum
 * 🌱 I’m currently learning  Python 
