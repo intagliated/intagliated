@@ -1,4 +1,5 @@
-### Hi there I am Maria  Paul 👋
+### Hi there I am 
+#### Maria  Paul :woman:
 
 * 🔭 I’m currently  pursuing my Btech CSE at College of Engineering Trivandrum
 * 🌱 I’m currently learning  Python 
@@ -7,8 +8,8 @@
 * 📫 How to reach me:  mariapault05122000@gmail.com
 * 😄 Pronouns:  She/Her mars
 * ⚡ Fun fact:  I am a total nerd 
-##
-* 
+
+
 
 
 -
