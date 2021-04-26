@@ -9,7 +9,3 @@
 * 😄 Pronouns:  She/Her mars
 * ⚡ Fun fact:  I am a total nerd 
 
-
-
-
--
