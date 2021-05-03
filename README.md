@@ -5,7 +5,7 @@
 * 🌱 I’m currently learning Front End Web Development
 * 🤔 I’m  working with Hack Club CET,
 * 💬 Ask me about  Life , Travel 
-* 📫 How to reach me:  mariapault05122000@gmail.com
+* 📫 How to reach me:  mariapault05122000@gmail.com , linkedin.com/in/maria-paul-thurkadayil-a453191b6/
 * 😄 Pronouns:  She/Her mars
 * ⚡ Fun fact:  I am a total nerd 
 
