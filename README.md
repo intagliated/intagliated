@@ -5,8 +5,7 @@
 
 
 -⚡ I love math, programming, data science, and books
-- 🌱 I’m addicted to learning and growing every day  
-- 🌱 I’m currently learning Javascript, CSS,  Python & C# 
+- 🌱 I’m addicted to learning and growing every day  and currently learning Javascript, CSS,  Python & C# 
 - 💬 Ask me about anything [here](https://github.com/intagliated/intagliated/issues)
 <br>
 <br>
