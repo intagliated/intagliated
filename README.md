@@ -3,5 +3,6 @@
 #### 🌱 I’m addicted to learning and growing every day
 
 
-#### :arrow_right: Connect  with me :email: mariapault05122000@gmail.com
+####  Connect  with me :email:
+###### mariapault05122000@gmail.com
 
