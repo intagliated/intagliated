@@ -1,5 +1,5 @@
 ### Hi there. I'm Maria 👋
 #### ⚡ I love math, programming, data science, and books
-#### 🌱 I’m addicted to learning and growing every day                           ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Ftags%2Fcoder_girl&psig=AOvVaw2YnmhDEypNs-1RGHXPzRoc&ust=1669260951973000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKihz-Kvw_sCFQAAAAAdAAAAABAJ)
+#### 🌱 I’m addicted to learning and growing every day                           ![girl] (https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300&vertical=top)
 ###### email : mariapault05122000@gmail.com
 
