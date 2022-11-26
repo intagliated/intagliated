@@ -9,7 +9,7 @@
 <br>
 <br>
 
-![Hi There ](https://github.com/intagliated/intagliated/blob/main/girl-code2.jpg
+![Hi There ](https://github.com/intagliated/intagliated/blob/main/girl-code2.jpg)
 
 
 
