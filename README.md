@@ -5,7 +5,7 @@
   
 
  #### ⚡ I love math, programming, data science, and books
- #### 🌱 I’m currently learning Python,Excel, PowerBI , SQL  and Machine Learning        
+ #### 🌱 I’m currently learning Python and Machine Learning        
 #### 💬 Ask me about anything [here](https://github.com/intagliated/intagliated/issues)
 <br>
 <br>
