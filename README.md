@@ -5,7 +5,7 @@
   
 
 <!-- #### ⚡ I love math, programming, data science, and books-->
- #### 🌱 I’m currently learning  Machine Learning     
+ #### 🌱 I’m currently pursuing a degree in   Data Science      
 #### 💬 Ask me about anything [here](https://github.com/intagliated/intagliated/issues)
 <br>
 <br>
