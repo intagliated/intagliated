@@ -12,13 +12,14 @@
 <br>
 
 
-<!--### Skills -->👨‍💻
+<!--### Skills 👨‍💻-->
 <br>
 <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
 <!--<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />-->
 <!--<img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />-->
 <!-- <img align="left" alt="Java" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg" /> -->
 <!--<img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg" />-->
+<br>
 <img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
 <br><br>
 <img align="left" alt="Postgres" width="60px" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
