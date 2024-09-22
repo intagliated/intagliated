@@ -5,7 +5,7 @@
   
 
 <!-- #### ⚡ I love math, programming, data science, and books-->
- #### 🌱 I’m currently pursuing my Masters Degree in Data Science      
+ #### 🌱 I’m currently pursuing my Masters degree in Data Science      
 #### 💬 Ask me about anything [here](https://github.com/intagliated/intagliated/issues)
 <br>
 <br>
