@@ -5,7 +5,7 @@
   
 
 <!-- #### ⚡ I love math, programming, data science, and books-->
- #### 🌱 I’m currently pursuing my Masters degree in Data Science  at  [Chennai Mathematical Instituite](https://www.cmi.ac.in/).<br><br> 🌱 Along with this, I am also building up my forte in programming and data science  by pursuing a Diploma in Data Science and Programming as part of IIT Madras's BS Degree Programme .
+ ####  I’m currently pursuing my Masters degree in Data Science  at  [Chennai Mathematical Instituite](https://www.cmi.ac.in/).<br><br>Along with this, I am also building up my forte in programming and data science  by pursuing a Diploma in Data Science and Programming as part of IIT Madras's BS Degree Programme .
 #### 💬 Ask me about anything [here](https://github.com/intagliated/intagliated/issues)
 <br>
 <br>
@@ -15,7 +15,7 @@
 <!--### Skills 👨‍💻-->
 <br>
 <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
-<!--<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />-->
+<!--🌱<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />-->
 <!--<img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />-->
 <!-- <img align="left" alt="Java" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg" /> -->
 <!--<img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg" />-->
