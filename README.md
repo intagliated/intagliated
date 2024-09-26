@@ -5,7 +5,7 @@
   
 
 <!-- #### ⚡ I love math, programming, data science, and books-->
- #### 🌱 I’m currently pursuing my Masters degree in Data Science  at  [Chennai Mathematical Instituite](https://www.cmi.ac.in/). Along with this, I am also building up my forte in programming and data science through the Online Degree offered by Indian Instituite of Technology Madras and I am currently doing my [Diploma in Data Science and Programming](https://study.iitm.ac.in/ds/) as part of this program .
+ #### 🌱 I’m currently pursuing my Masters degree in Data Science  at  [Chennai Mathematical Instituite](https://www.cmi.ac.in/).<br> Along with this, I am also building up my forte in programming and data science through the Online Degree offered by Indian Instituite of Technology Madras and I am currently doing my [Diploma in Data Science and Programming](https://study.iitm.ac.in/ds/) as part of this program .
 #### 💬 Ask me about anything [here](https://github.com/intagliated/intagliated/issues)
 <br>
 <br>
