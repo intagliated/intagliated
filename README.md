@@ -6,7 +6,7 @@
 
 <!--  👋. 🌱 #### ⚡ I love math, programming, data science, and books-->
  ####  I’m  pursuing my Master's degree in Data Science from  [Chennai Mathematical Instituite](https://www.cmi.ac.in/).
- #### Currently, I am working on building strong foundations in Mathematics, Statistics and Programming  through my postgraduate degree. I hope to build sufficient knowledge in this field to tackle real world problems. 
+ <!--#### Currently, I am working on building strong foundations in Mathematics, Statistics and Programming  through my postgraduate degree. I hope to build sufficient knowledge in this field to tackle real world problems. -->
  #### 💬 Ask me about anything  [here](https://github.com/intagliated/intagliated/issues)
 <br>
 <br>
