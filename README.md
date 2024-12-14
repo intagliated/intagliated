@@ -3,10 +3,10 @@
   
   
   
-
-<!--  👋. 🌱 #### ⚡ I love math, programming, data science, and books-->
- ####  I’m  pursuing my Master's degree in Data Science from  [Chennai Mathematical Instituite](https://www.cmi.ac.in/).
- <!--#### Currently, I am working on building strong foundations in Mathematics, Statistics and Programming  through my postgraduate degree. I hope to build sufficient knowledge in this field to tackle real world problems. -->
+Currently pursuing my Master's degree in Data Science from  [Chennai Mathematical Instituite](https://www.cmi.ac.in/).<br> By the end of this course I hope to gain sufficient knowledge and understanding to tackle real world problems in the domain.<br><br>
+I am an avid reader and I enjoy reading books as a hobby.<br>
+ 
+ <!--#### Currently, I am working on building strong foundations in Mathematics,  🌱⚡👋 Statistics and Programming  through my postgraduate degree. I hope to build sufficient knowledge in this field to tackle real world problems. -->
  #### 💬 Ask me about anything  [here](https://github.com/intagliated/intagliated/issues)
 <br>
 <br>
