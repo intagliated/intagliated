@@ -4,7 +4,7 @@
   
   
 Currently pursuing my Master's degree in Data Science from  [Chennai Mathematical Instituite](https://www.cmi.ac.in/).<br> By the end of this course I hope to gain sufficient knowledge and understanding to tackle real world problems in the domain of data science.<br><br>
-I am also an avid reader and I enjoy reading  as a hobby. In my free time I listen to music and also watch a lot of shows. <br>
+I am also an avid reader and I enjoy reading  as a hobby. In my free time I also listen to music and  watch a lot of  TV shows. <br>
  
  <!--#### Currently, I am working on building strong foundations in Mathematics,  🌱⚡👋 Statistics and Programming  through my postgraduate degree. I hope to build sufficient knowledge in this field to tackle real world problems. -->
  #### 💬 Ask me about anything  [here](https://github.com/intagliated/intagliated/issues)
