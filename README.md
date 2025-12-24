@@ -30,7 +30,3 @@ I am also an avid reader and I enjoy reading  as a hobby. In my free time I also
 <!--(<img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />)  P S Socially Unaware -->
 <br>
 <br>
-
-
-
-
