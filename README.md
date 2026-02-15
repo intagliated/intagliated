@@ -17,7 +17,7 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
 
 #### Tools  📂 
 * **Workflow:** Git, GitHub, VS Code, Jupyter, Google Colab, Figma, Canva, Flask, Streamlit ,bolt
-*  **Generative AI:** LangChain, Prompt Engineering, AI Agents, Retrieval Augmented Generation
+*  **Generative AI:** LangChain, Prompt Engineering, AI Agents, Retrieval Augmented Generation, Hugging Face
 <!--
 <!--### Skills 👨‍💻-->
 
