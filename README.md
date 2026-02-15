@@ -3,16 +3,16 @@
   
   
   
-Currently pursuing my Master's degree in Data Science from  [Chennai Mathematical Instituite](https://www.cmi.ac.in/).<br> By the end of this course I hope to gain sufficient knowledge and understanding to tackle real world problems in the domain of data science.<br><br>
-I am also an avid reader and I enjoy reading  as a hobby. In my free time I also listen to music. <br>
- 
+Currently pursuing my Master's degree in Data Science from  [Chennai Mathematical Instituite](https://www.cmi.ac.in/).<br> 
  <!--#### Currently, I am working on building strong foundations in Mathematics,  🌱⚡👋 Statistics and Programming  through my postgraduate degree. I hope to build sufficient knowledge in this field to tackle real world problems. -->
  
 #### Technical Toolkit
 
 ####  Data Analytics 
 * **Libraries:** `Pandas`, `NumPy`, `Matplotlib`, `Scikit-learn`, `Statsmodels`
-* **Visualization:** PowerBI, Matplotlib
+* **Visualization:** PowerBI
+#### Tools 
+* **Workflow:** Git, GitHub, VS Code, Jupyter, Google Colab, Figma
 <!--
 <!--### Skills 👨‍💻-->
 <br>
