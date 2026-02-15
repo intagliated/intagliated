@@ -5,6 +5,8 @@
   
 Currently pursuing my Master's degree in Data Science from  [Chennai Mathematical Instituite](https://www.cmi.ac.in/).<br> 
  <!--#### Currently, I am working on building strong foundations in Mathematics,  🌱⚡👋 Statistics and Programming  through my postgraduate degree. I hope to build sufficient knowledge in this field to tackle real world problems. -->
+
+
  
 #### Technical Toolkit
 
