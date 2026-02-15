@@ -22,9 +22,20 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
 <!--### Skills 👨‍💻-->
 
 ####  Learning Highlights 🧠
-*  Working on Problems that have an intersection of data science in multiple domains
+*  Interested in working on Problems that have an intersection of data science in multiple domains
 *  Implement interpretable machine learning models for real-world datasets.<br>
-*  Explore data analytics projects to turn raw data into actionable insights. 🔍 <br>
+*  Enjoy Reading Research Papers 🔍 <br>
+
+####  Hobbies
+* 📐 Teaching & Explaining Concepts
+* 🎧 Listening to Music
+* 🎬 Watching TV Shows
+* 🍽️ Trying new Restaurants & Food Cuisines
+
+
+
+👂  Feel free to reach out also for  any good discussions [here](https://github.com/intagliated/intagliated/issues)
+<br>
   
 
 ---
@@ -44,8 +55,7 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
 <!--(<img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />)  P S Socially Unaware -->
 
 #### 💬 Ask me about anything  [here](https://github.com/intagliated/intagliated/issues)
-<br>
-<br>
+##### 
 <br>
 
 
