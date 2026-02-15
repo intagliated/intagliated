@@ -22,6 +22,7 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
 <!--### Skills 👨‍💻-->
 
 ####  Learning Highlights 🧠
+*  Working on Problems that have an intersection of data science in multiple domains
 *  Implement interpretable machine learning models for real-world datasets.<br>
 *  Explore data analytics projects to turn raw data into actionable insights. 🔍 <br>
   
