@@ -9,10 +9,11 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
 #### Technical Toolkit
 
 ####  Data Analytics 
-* **Machine Learning Libraries:**  Python, SQL, R, XGBoost, CNN, Scikit-learn, PyTorch, TensorFlow
+* **Machine Learning Libraries:**  Python, SQL, R, XGBoost, Scikit-learn, PyTorch
 * **Visualization:** PowerBI
+
 #### Tools 
-* **Workflow:** Git, GitHub, VS Code, Jupyter, Google Colab, Figma, Canva
+* **Workflow:** Git, GitHub, VS Code, Jupyter, Google Colab, Figma, Canva, Flask, Streamlit
 <!--
 <!--### Skills 👨‍💻-->
 <br>
