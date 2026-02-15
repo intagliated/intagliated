@@ -3,21 +3,30 @@
   
   
   
-Currently pursuing my Master's degree in Data Science from  [Chennai Mathematical Instituite](https://www.cmi.ac.in/).<br> 
+Currently pursuing my Master's degree in Data Science from  [Chennai Mathematical Instituite](https://www.cmi.ac.in/) 🎓.<br> 
  <!--#### Currently, I am working on building strong foundations in Mathematics,  🌱⚡👋 Statistics and Programming  through my postgraduate degree. I hope to build sufficient knowledge in this field to tackle real world problems. -->
 
 
  
-#### Technical Toolkit
+#### Technical Toolkit 🛠
 
-####  Data Analytics 
-* **Machine Learning Libraries:**  Python, SQL, R, XGBoost, Scikit-learn, PyTorch
-* **Visualization:** PowerBI
+####  Data Analytics  📊
+* **Machine Learning Libraries:**  Pandas SQL, R, XGBoost, LightGBM, Scikit-learn, PyTorch
+* **Visualization:** PowerBI, Microsoft Excel, 
+*  **Databases:** MongoDB, PostgreSQL,MariaDB 
 
-#### Tools 
-* **Workflow:** Git, GitHub, VS Code, Jupyter, Google Colab, Figma, Canva, Flask, Streamlit
+#### Tools  📂 
+* **Workflow:** Git, GitHub, VS Code, Jupyter, Google Colab, Figma, Canva, Flask, Streamlit ,bolt
+*  **Generative AI:** LangChain, Prompt Engineering, AI Agents, Retrieval Augmented Generation
 <!--
 <!--### Skills 👨‍💻-->
+
+####  Learning Highlights 🧠
+*  Implement interpretable machine learning models for real-world datasets.<br>
+*  Explore data analytics projects to turn raw data into actionable insights. 🔍 <br>
+  
+
+---
 <br>
 <!--
 <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
@@ -37,4 +46,5 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
 <br>
 <br>
 <br>
+
 
