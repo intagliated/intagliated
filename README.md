@@ -11,10 +11,7 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
  <!--#### Currently, I am working on building strong foundations in Mathematics,  🌱⚡👋 Statistics and Programming  through my postgraduate degree. I hope to build sufficient knowledge in this field to tackle real world problems. -->
 
 
- 
-#### Technical Toolkit 🛠
-
-####  Data Analytics  📊
+ ####  Data Analytics  📊
 * **Machine Learning Libraries:**  Pandas SQL, XGBoost, LightGBM, Scikit-learn, PyTorch
 * **Visualization:** PowerBI, Microsoft Excel, R 
 *  **Databases:** MongoDB, PostgreSQL,MariaDB
