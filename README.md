@@ -21,7 +21,7 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
 * **Computer Science:** Linux Shell Scripting , IT Support, HTML, CSS , Django
 
 #### Tools  📂 
-* **Workflow:** Git, GitHub, VS Code, Jupyter, Google Colab, Figma, Canva, Flask, Streamlit ,bolt
+* **Workflow:** Git, GitHub, VS Code, Jupyter, Google Colab, Figma, Canva, Flask, Streamlit, bolt
 *  **Generative AI:** LangChain, Prompt Engineering, AI Agents, Retrieval Augmented Generation, Hugging Face
 <!--
 <!--### Skills 👨‍💻-->
@@ -40,9 +40,8 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
 
 ####  Hobbies
 * 📐 Teaching & Explaining Concepts
-* 🎧 Listening to Music
-* 🎬 Watching TV Shows
-* 🍽️ Trying new Restaurants & Food Cuisines
+*   Watching TV Shows
+*   Trying new Restaurants & Food Cuisines
   
  
 👂  Feel free to reach out also for  any good discussions [here](https://github.com/intagliated/intagliated/issues)
