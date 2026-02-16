@@ -5,19 +5,17 @@
   
   
   
-Currently pursuing my Master's degree in Data Science from  [Chennai Mathematical Instituite](https://www.cmi.ac.in/) 🎓.<br> 
+Currently pursuing my Master's degree in Data Science from  [Chennai Mathematical Instituite](https://www.cmi.ac.in/) .<br>   🎓
 
 
  <!--#### Currently, I am working on building strong foundations in Mathematics,  🌱⚡👋 Statistics and Programming  through my postgraduate degree. I hope to build sufficient knowledge in this field to tackle real world problems. -->
 
 
- ####  Data Analytics  📊
-* **Machine Learning Libraries:**  Pandas SQL, XGBoost, LightGBM, Scikit-learn, PyTorch
+ ####   Skillset :
+* **Machine Learning Libraries:** Pandas SQL, XGBoost, LightGBM, Scikit-learn, PyTorch
 * **Visualization:** PowerBI, Microsoft Excel, R 
-*  **Databases:** MongoDB, PostgreSQL,MariaDB
-* **Computer Science:** Linux Shell Scripting , IT Support, HTML, CSS , Django
-
-#### Tools  📂 
+* **Databases:** MongoDB, PostgreSQL,MariaDB
+* **Computer Science:** Linux Shell Scripting , IT Support, HTML, CSS , Django , Open Source Contributions
 * **Workflow:** Git, GitHub, VS Code, Jupyter, Google Colab, Figma, Canva, Flask, Streamlit, bolt
 *  **Generative AI:** LangChain, Prompt Engineering, AI Agents, Retrieval Augmented Generation, Hugging Face
 <!--
@@ -30,12 +28,11 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
 
 
 
-####  Learning Highlights 🧠
+####  What I like working on : 
 *  Interested in working on Problems that have an intersection of data science in multiple domains
-*  Implement interpretable machine learning models for real-world datasets.<br>
 *  Enjoy Reading Research Papers 🔍 <br>
 
-####  Hobbies
+####  In Short I like-
 * 📐 Teaching & Explaining Concepts
 *   Watching TV Shows
 *   Trying new Restaurants & Food Cuisines
