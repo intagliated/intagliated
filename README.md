@@ -16,8 +16,8 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
 * **Visualization:** PowerBI, Microsoft Excel, R 
 * **Databases:** MongoDB, PostgreSQL, MariaDB
 * **Computer Science:** Linux Shell Scripting, IT Support, HTML, CSS, Django, Open Source Contributions
-* **Workflow:** Git, GitHub, VS Code, Jupyter, Google Colab, Figma, Canva, Flask, Streamlit, bolt
-*  **Generative AI:** LangChain, Prompt Engineering, AI Agents, Retrieval Augmented Generation, Hugging Face
+* **Workflow:** Data Version Control, Git, GitHub, VS Code, Jupyter, Google Colab, Figma, Canva, Flask, Streamlit, bolt
+*  **Generative AI:** LangChain, Prompt Engineering, AI Agents, Retrieval Augmented Generation, Hugging Face, 
 <!--
 <!--### Skills 👨‍💻-->
 
