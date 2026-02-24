@@ -17,7 +17,7 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
 * **Databases:** MongoDB, PostgreSQL, MariaDB, Neo4J, Hbase
 * **Computer Science:** Linux Shell Scripting, IT Support, HTML, CSS, Django, Open Source Contributions
 * **Workflow:** Data Version Control, Git, GitHub, VS Code, Jupyter, Google Colab, Figma, Canva, Flask, Streamlit, bolt
-* **Generative AI:** LangChain, Prompt Engineering, AI Agents, Retrieval Augmented Generation, Hugging Face,
+* **Generative AI:** LangChain,Prompt Engineering, AI Agents, Retrieval Augmented Generation, Hugging Face,
 * **Distributed Computing & Big Data:** Map-Reduce,Pig-Latin, Log-4j, Apache-Spark, Hadoop, Apache-Kafka, Docker
 *  **
 <!--
