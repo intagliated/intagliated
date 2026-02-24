@@ -35,6 +35,14 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
 *  Interested in working on Problems that have an intersection of data science in multiple domains
 *  Enjoy Reading Research Papers 🔍 <br>
 
+**Course-Work**:
+           <br><br>
+             1.   Applied Machine Learning- Raghav Kulkarni<br>
+             2.   The Art of Short Fiction- Usha Mahadevan <br>
+             3.   Optimisation in Industry- Abhik Giri <br>
+             4.   Intro to Generative AI- Pranabendu Mishra <br>
+             5.   Data Privacy and Data Quality- Chandramouli M 
+            
 ####  In Short I like-
 * 📐 Teaching & Explaining Concepts
 *   Watching TV Shows
