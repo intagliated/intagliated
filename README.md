@@ -12,11 +12,11 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
 
 
  ####   Skillset :
-* **Machine Learning Libraries:** Pandas, Matplotlib, XGBoost, LightGBM, Scikit-learn,  PyTorch, statmodels
+* **Machine Learning Libraries:** Pandas, Matplotlib, XGBoost, LightGBM, Scikit-learn, PyTorch, statmodels
 * **Visualization:** PowerBI, Microsoft Excel, R 
-* **Databases:** PostgreSQL, MongoDB, MariaDB, Neo4J, Hbase , 
-* **Computer Science:** Social Network Analysis, Linux Shell Scripting, IT Support, HTML, CSS, Django, Unity,Open Source Contributions
-* **Web Scraping:**  Beautiful Soup
+* **Databases:** PostgreSQL, MongoDB, MariaDB, Neo4J, Hbase
+* **Programming languages & Technology** : Python, Beautiful Soup- Web Scraping ,HTML,CSS,Django- Web Development
+* **Computer Science:** Social Network Analysis, Linux Shell Scripting, IT Support, Unity,Open Source Contributions
 * **Workflow:** Data Version Control, Git, GitHub, VS Code, Jupyter, Google Colab, Figma, Canva, Flask, Streamlit, bolt
 * **Generative AI:** LangChain,Prompt Engineering,Retrieval Augmented Generation, Hugging Face, AI Agents
 * **Distributed Computing & Big Data:** Map-Reduce,Pig-Latin,Apache-Spark, Hadoop, Apache-Kafka, Docker
