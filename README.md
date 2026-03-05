@@ -18,7 +18,7 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
 * **Computer Science:** Social Network Analysis, Linux Shell Scripting, IT Support, HTML, CSS, Django, Open Source Contributions
 * **Web Scraping:**  Beautiful Soup
 * **Workflow:** Data Version Control, Git, GitHub, VS Code, Jupyter, Google Colab, Figma, Canva, Flask, Streamlit, bolt
-* **Generative AI:** LangChain,Prompt Engineering, AI Agents, Retrieval Augmented Generation, Hugging Face,
+* **Generative AI:** LangChain,Prompt Engineering,Retrieval Augmented Generation, Hugging Face, AI Agents
 * **Distributed Computing & Big Data:** Map-Reduce,Pig-Latin,Apache-Spark, Hadoop, Apache-Kafka, Docker
 *  **
 <!--
