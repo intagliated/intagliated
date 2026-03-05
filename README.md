@@ -44,8 +44,8 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
              5.   Data Privacy and Data Quality- Chandramouli M 
             
 ####  In Short I like-
-* 📐 Teaching & Explaining Concepts
-*    Literature
+*   Teaching & Explaining Concepts
+*   Literature
 *   Watching TV Shows
 *   Trying new Restaurants & Food Cuisines
   
