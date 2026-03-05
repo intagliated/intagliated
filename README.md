@@ -45,6 +45,7 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
             
 ####  In Short I like-
 * 📐 Teaching & Explaining Concepts
+*    Literature
 *   Watching TV Shows
 *   Trying new Restaurants & Food Cuisines
   
