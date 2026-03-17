@@ -11,13 +11,14 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
  <!--#### Currently, I am working on building strong foundations in Mathematics,  🌱⚡👋 Statistics and Programming  through my postgraduate degree. I hope to build sufficient knowledge in this field to tackle real world problems. -->
 
 
- ####  Worked  with the  following  tools as part of my  academic coursework :
+ ####   Following  tools I had worked on as part of my  academic coursework :
 * **Machine Learning Libraries:** Pandas, Matplotlib, XGBoost, LightGBM, Scikit-learn, PyTorch, statmodels
 * **Visualization:** PowerBI, Microsoft Excel, R 
 * **Databases:** PostgreSQL, MongoDB, MariaDB, Neo4J, Hbase
 * **Programming languages & Technology** : Python, Beautiful Soup- Web Scraping, HTML, CSS,Django- Web Development
 * **Computer Science:** Social Network Analysis, Linux Shell Scripting, IT Support, Unity, Open Source Contributions
-* **Workflow:** Data Version Control, Git, GitHub, VS Code, Jupyter, Google Colab, Figma, Canva, Flask, Streamlit, bolt, monday.com, vercel, anaconda
+* **Workflow:** Data Version Control, Git, GitHub, VS Code, Jupyter, Google Colab, Figma, Canva, Flask, Streamlit, bolt,
+       <br>     monday.com, vercel, anaconda
 * **Generative AI:** LangChain, Prompt Engineering, Retrieval Augmented Generation, Hugging Face, AI Agents
 * **Distributed Computing & Big Data:** Map-Reduce, Pig-Latin, Apache-Spark, Hadoop , Docker
   
