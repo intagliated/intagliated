@@ -11,7 +11,7 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
  <!--#### Currently, I am working on building strong foundations in Mathematics,  🌱⚡👋 Statistics and Programming  through my postgraduate degree. I hope to build sufficient knowledge in this field to tackle real world problems. -->
 
 
- ####   Skillset :
+ ####  Worked  with the  following  tools as part of my  academic coursework :
 * **Machine Learning Libraries:** Pandas, Matplotlib, XGBoost, LightGBM, Scikit-learn, PyTorch, statmodels
 * **Visualization:** PowerBI, Microsoft Excel, R 
 * **Databases:** PostgreSQL, MongoDB, MariaDB, Neo4J, Hbase
@@ -19,23 +19,23 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
 * **Computer Science:** Social Network Analysis, Linux Shell Scripting, IT Support, Unity,Open Source Contributions
 * **Workflow:** Data Version Control, Git, GitHub, VS Code, Jupyter, Google Colab, Figma, Canva, Flask, Streamlit, bolt
 * **Generative AI:** LangChain,Prompt Engineering,Retrieval Augmented Generation, Hugging Face, AI Agents
-* **Distributed Computing & Big Data:** Map-Reduce,Pig-Latin,Apache-Spark, Hadoop, Apache-Kafka, Docker
+* **Distributed Computing & Big Data:** Map-Reduce,Pig-Latin, Apache-Spark, Hadoop , Docker
   
 <!--
 <!--### Skills 👨‍💻-->
 
  #### Philosophy  🐿️  
 
-> 📚 ***"വിദ്യധനം സർവ്വധനാൽ പ്രധാനം"*****
+> 📚 ***"വിദ്യധനം സർവ്വധനാൽ പ്രധാനം"***
 > *(The wealth of knowledge is the most important of all)*
 
 
 
-####  What I like working on : 
+#### What I want to work on : 
 *  Interested in working on Problems that have an intersection of data science in multiple domains
 *  Enjoy Reading Research Papers 🔍 <br>
 
-**Course-Work**:
+**Present Course-Work**:
            <br><br>
              1.   Applied Machine Learning- Raghav Kulkarni<br>
              2.   The Art of Short Fiction- Usha Mahadevan <br>
