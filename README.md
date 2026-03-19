@@ -42,7 +42,8 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
              2.   The Art of Short Fiction- Usha Mahadevan <br>
              3.   Optimisation in Industry- Abhik Giri <br>
              4.   Intro to Generative AI- Pranabendu Mishra <br>
-             5.   Data Privacy and Data Quality- Chandramouli M 
+             5.   Data Privacy and Data Quality- Chandramouli M <br>
+             6.   Applied Cryptography & Computer Security <br>
             
 ####  In Short I like-
 *   Teaching & Explaining Concepts
