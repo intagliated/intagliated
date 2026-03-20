@@ -1,10 +1,12 @@
 
-<h2>  <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there,  I'm Maria Thurkadayil </h2>
-
-<br>Currently pursuing my Master's degree in Data Science from  [Chennai Mathematical Instituite](https://www.cmi.ac.in/).<br>   🎓
+<h2>  Hi there,  I'm Maria Thurkadayil <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f338.png" width="25"> </h2> 
 
 
- <!--#### Currently, I am working on building strong foundations in Mathematics,  🌱⚡👋 Statistics and Programming  through my postgraduate degree. I hope to build sufficient knowledge in this field to tackle real world problems. -->
+#### Currently pursuing my Master's degree in Data Science from [Chennai Mathematical Instituite](https://www.cmi.ac.in/) 
+
+
+ <!--#### Currently, I am working on building strong foundations in Mathematics,  🌱⚡👋 Statistics and Programming  through my postgraduate degree. I hope to build sufficient knowledge in this field to tackle real world problems. 
+ <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> </h2> -->
 
 
  ####  I have worked with the  following  tools as part of my  academic coursework :
@@ -27,7 +29,6 @@
 > *(The wealth of knowledge is the most important of all)*
 
 
-
 #### What I want to work on : 
 *  Interested in working on Problems that have an intersection of data science in multiple domains
 *  Enjoy Reading Research Papers 🔍 <br>
@@ -48,40 +49,6 @@
 *   Trying new Restaurants & Food Cuisines
   
  #### 💬 Ask me about anything  [here](https://github.com/intagliated/intagliated/issues)
-##### 
----
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=15060D&width=435&lines=%22In+God+we+trust%2C+all+others+must+bring+data.%22)](https://git.io/typing-svg)
-
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-</p> -->
-
-<br>
-<!--
-<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
-<!--<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />-->
-<!--<img align="left" alt="JavaScript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg" />-->
-<!-- <img align="left" alt="Java" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/java.svg" /> -->
-<!--<img align="left" alt="C++" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cplusplus.svg" />-->
-<br>
-<!--
-<img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
-<br><br>
-<!--<img align="left" alt="Postgres" width="60px" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />-->
-<!--![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)-->
-<!--(<img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />)  P S Socially Unaware -->
 
 
 
