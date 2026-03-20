@@ -43,7 +43,7 @@ Currently pursuing my Master's degree in Data Science from  [Chennai Mathematica
              3.   Optimisation in Industry- Abhik Giri <br>
              4.   Intro to Generative AI- Pranabendu Mishra <br>
              5.   Data Privacy and Data Quality- Chandramouli M <br>
-             6.   Applied Cryptography & Computer Security <br>
+             6.   Applied Cryptography & Computer Security-  Gautham Sekhar <br>
             
 ####  In Short I like-
 *   Teaching & Explaining Concepts
