@@ -1,5 +1,5 @@
 
-<h2>  Hi there,  I'm Maria Thurkadayil    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f338.png" width="25"> </h2> 
+<h2>  Hi there,  I am Maria Thurkadayil    <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f338.png" width="25"> </h2> 
 
 
 #### Currently pursuing my Master's in Data Science from [Chennai Mathematical Instituite](https://www.cmi.ac.in/) 
