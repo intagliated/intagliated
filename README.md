@@ -33,7 +33,7 @@
 *  Interested in working on Problems that have an intersection of data science in multiple domains
 *  Enjoy Reading Research Papers 🔍 <br>
 
-**Present Course-Work**:
+**Present Course Work**:
            <br><br>
              1.   Applied Machine Learning- Raghav Kulkarni<br>
              2.   The Art of Short Fiction- Usha Mahadevan <br>
