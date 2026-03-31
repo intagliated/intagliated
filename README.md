@@ -19,6 +19,7 @@
        <br>     monday.com, vercel, anaconda
 * **Generative AI:** LangChain, Prompt Engineering, Retrieval Augmented Generation, Hugging Face, AI Agents
 * **Distributed Computing & Big Data:** Map-Reduce, Pig-Latin, Apache-Spark, Hadoop , Docker
+* **Deployment Tools:**  Heroku, Vercel
 
 <!--
 <!--### Skills 👨‍💻-->
