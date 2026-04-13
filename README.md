@@ -8,18 +8,6 @@
  <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> </h2>     <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f338.png" width="25"> </h2> 
 -->
 
-
- ####  I have worked with the  following  tools as part of my  academic coursework :
-* **Machine Learning Libraries:** Pandas, Matplotlib, XGBoost, LightGBM, Scikit-learn, PyTorch, statmodels
-* **Visualization:** PowerBI, Microsoft Excel, R 
-* **Databases:** PostgreSQL, MongoDB, MariaDB, Neo4J, Hbase
-* **Programming languages & Technology** : Python, Beautiful Soup- Web Scraping, HTML, CSS,Django- Web Development
-* **Computer Science:** Social Network Analysis, Linux Shell Scripting, IT Support, Unity, Open Source Contributions
-* **Workflow:** Data Version Control, Git, GitHub, VS Code, Jupyter, Google Colab, Figma, Canva, Flask, Streamlit, bolt,
-* **Generative AI:** LangChain, Prompt Engineering, Retrieval Augmented Generation, Hugging Face, AI Agents
-* **Distributed Computing & Big Data:** Map-Reduce, Pig-Latin, Apache-Spark, Hadoop , Docker
-* **Deployment Tools:**  Heroku, Vercel
-
 <!--
 <!--### Skills 👨‍💻-->
 
