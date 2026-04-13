@@ -33,14 +33,10 @@
 ####  In Short I like-
 *   Teaching & Explaining Concepts
 *   Literature
-*   Watching TV Shows
-*   Trying new Restaurants & Food Cuisines
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=intagliated&theme=telegram-gradient)](https://git.io/streak-stats)
   
  #### 💬 Ask me about anything  [here](https://github.com/intagliated/intagliated/issues)
-
-
 
 
 
