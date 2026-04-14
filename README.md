@@ -1,7 +1,7 @@
 
 <h2>  Hi there,  I am Maria Thurkadayil
 
-#### Currently pursuing my Master's in Data Science from [Chennai Mathematical Instituite](https://www.cmi.ac.in/) 
+####  Msc  in Data Science  at [Chennai Mathematical Instituite](https://www.cmi.ac.in/) 
 
 
  <!--#### Currently, I am working on building strong foundations in Mathematics,  🌱⚡👋 Statistics and Programming  through my postgraduate degree. I hope to build sufficient knowledge in this field to tackle real world problems. 
@@ -13,8 +13,8 @@
 
  #### Philosophy    
 
->  ***"വിദ്യധനം സർവ്വധനാൽ പ്രധാനം"***
-> *(The wealth of knowledge is the most important of all)*
+ ***"വിദ്യധനം സർവ്വധനാൽ പ്രധാനം"***
+ *(The wealth of knowledge is the most important of all)*
 
 
 #### What I want to work on : 
@@ -30,12 +30,7 @@
              5.   Data Privacy and Data Quality- Chandramouli M <br>
              6.   Applied Cryptography & Computer Security-  Gautham Sekhar <br>
             
-####  In Short I like-
-*   Teaching & Explaining Concepts
-*   Literature
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=intagliated&theme=telegram-gradient)](https://git.io/streak-stats)
-  
  #### 💬 Ask me about anything  [here](https://github.com/intagliated/intagliated/issues)
 
 
