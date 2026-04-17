@@ -34,10 +34,7 @@
              6.   Applied Cryptography & Computer Security-  Gautham Sekhar <br>
 
 
-  ####  Let's connect
-- I especially enjoy discussing: research papers, privacy vs. utility trade-offs, or optimization in unusual domains
-
- #### 💬 Ask me about anything  [here](https://github.com/intagliated/intagliated/issues)
+#### 💬 Ask me about anything  [here](https://github.com/intagliated/intagliated/issues)
 
 
 
