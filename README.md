@@ -1,7 +1,7 @@
 
 <h2>  Hi there,  I am Maria Thurkadayil
 
-####  Msc  in Data Science  at [Chennai Mathematical Instituite](https://www.cmi.ac.in/) 
+####  Msc  in Data Science - [Chennai Mathematical Instituite](https://www.cmi.ac.in/) 
 
 
 ##### Looking for Data Scientist / ML Engineer roles
