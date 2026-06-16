@@ -32,7 +32,7 @@
              5.   Data Privacy and Data Quality- Chandramouli M 
              6.   Applied Cryptography & Computer Security-  Gautham Sekhar 
 
-#### Upcoming Course Work as part of the Online Diploma in Data Science offered by IIT Madras :
+####  Present Course Work as part of the Online Diploma in Data Science offered by IIT Madras :
              1. Introduction to Deep Learning and Generative AI 
              2. Deep Learning and Generative  AI Project 
              3. Programming and Data Structures in Python 
