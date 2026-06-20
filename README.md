@@ -15,18 +15,18 @@
 <!--
 <!--### Skills 👨‍💻-->
 
- #### Philosophy    
+<!-- #### Philosophy    
 
  ***"വിദ്യധനം സർവ്വധനാൽ പ്രധാനം"***
- *(The wealth of knowledge is the most important of all)*
+ *(The wealth of knowledge is the most important of all)*-->
 
 
-#### What I want to work on : 
+<!--#### What I want to work on : 
 *  Interested in working on Problems that have an intersection of data science in multiple domains
-*  Enjoy Reading Research Papers <br>
+*  Enjoy Reading Research Papers <br>-->
 
 
-####  Currently working on the project   https://iitjammu.ac.in/mira/
+#####  Currently working on the project   https://iitjammu.ac.in/mira/
 
 #### Recent Course Work  at CMI : <br>
              1.   Applied Machine Learning- Raghav Kulkarni 
