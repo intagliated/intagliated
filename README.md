@@ -28,7 +28,7 @@
 
 #####  Currently working on the project   https://iitjammu.ac.in/mira/
 
-#### Recent Course Work  at CMI : <br>
+##### Recent Course Work  at CMI : <br>
              1.   Applied Machine Learning- Raghav Kulkarni 
              2.   The Art of Short Fiction- Usha Mahadevan 
              3.   Optimisation in Industry- Abhik Giri 
@@ -36,7 +36,7 @@
              5.   Data Privacy and Data Quality- Chandramouli M 
              6.   Applied Cryptography & Computer Security-  Gautham Sekhar 
 
-####  Present Course Work as part of the Online Diploma in Data Science offered by IIT Madras :
+#####  Present Course Work as part of the Online Diploma in Data Science offered by IIT Madras :
              1. Introduction to Deep Learning and Generative AI 
              2. Deep Learning and Generative  AI Project 
              3. Programming and Data Structures in Python 
