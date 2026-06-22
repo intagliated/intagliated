@@ -32,6 +32,7 @@
              1.   Introduction to Generative AI- Pranabendu Mishra 
              2.   Data Mining and Machine Learning - Madhavan Mukund 
              
+####   [Link to  Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Latest.pdf)
             
 
 #####  Present Course Work as part of the Online Diploma in Data Science offered by IIT Madras :
@@ -41,6 +42,8 @@
 
 
 #### 💬 Ask me about anything  [here](https://github.com/intagliated/intagliated/issues)
+
+
 
 
 
