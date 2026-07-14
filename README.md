@@ -35,10 +35,6 @@
 ####   [Link to  Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Latest.pdf)
             
 
-#####  Present Course Work as part of the Online Diploma in Data Science offered by IIT Madras :
-             1. Introduction to Deep Learning and Generative AI 
-             2. Deep Learning and Generative  AI Project 
-             3. Programming and Data Structures in Python 
 
 
 #### 💬 Ask me about anything  [here](https://github.com/intagliated/intagliated/issues)
