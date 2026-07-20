@@ -22,7 +22,6 @@
 *  Enjoy Reading Research Papers <br>-->
 
 
-#####  Currently working on the project   https://iitjammu.ac.in/mira/
 
 #####   Relevent Course Work  at CMI
              1.   Introduction to Generative AI- Pranabendu Mishra 
