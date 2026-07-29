@@ -27,7 +27,7 @@
              1.   Introduction to Generative AI- Pranabendu Mishra 
              2.   Data Mining and Machine Learning - Madhavan Mukund 
              
-#### [**Link to  Resume**](https://github.com/intagliated/intagliated/blob/main/Maria_Paul_T_Resume_Linked.pdf)
+#### [**Link to  Resume**](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Updated_Resume.pdf)
             
 
 
