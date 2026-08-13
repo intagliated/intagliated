@@ -28,7 +28,7 @@
              2.   Data Mining and Machine Learning - Madhavan Mukund 
              
  
- [Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_2%20.pdf)
+ [Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_2%.pd)
 
             
 
