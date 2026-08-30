@@ -1,42 +1,53 @@
-
-<h2>  Hi there,  I am Maria Thurkadayil
-
-####  Msc  in Data Science - [Chennai Mathematical Instituite](https://www.cmi.ac.in/) 
+# Hi There! 👋
 
 
- <!--#### Currently, I am working on building strong foundations in Mathematics,  🌱⚡👋 Statistics and Programming  through my postgraduate degree. I hope to build sufficient knowledge in this field to tackle real world problems. 
- <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> </h2>     <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f338.png" width="25"> </h2> 
--->
+I am Maria Paul T
 
-<!--
-<!--### Skills 👨‍💻-->
+Glad to see you here !
 
-<!-- #### Philosophy    
-
- ***"വിദ്യധനം സർവ്വധനാൽ പ്രധാനം"***
- *(The wealth of knowledge is the most important of all)*-->
-
-
-<!--#### What I want to work on : 
-*  Interested in working on Problems that have an intersection of data science in multiple domains
-*  Enjoy Reading Research Papers <br>-->
-
+I'm a PostGraduate in Data Science from  **Chennai Mathematical Institute** (https://www.cmi.ac.in/)  diving deep into the world of applied AI and building robust, real-world systems. My mission? To bridge the gap between cutting-edge research and production-ready solutions. My core passion lies in making AI more accessible, efficient, and grounded—from building synthetic data generation pipelines to ensuring data privacy.
 
 
 #####   Relevent Course Work  at CMI
              1.   Introduction to Generative AI- Pranabendu Mishra 
              2.   Data Mining and Machine Learning - Madhavan Mukund 
-             
- 
- [Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_August_27th_2026.pdf)
+
+## What Keeps Me Busy (Besides Deadlines):
+
+My work is a mix of broad research interests and specific, ongoing projects.
+
+**Core Interests:**
+
+- **Generative AI & LLMs:** Exploring the frontiers of synthetic data, model distillation, and prompt engineering.
+- **MLOps & Deployment:** Containerizing models, setting up end-to-end pipelines, and deploying models as microservices.
+- **Data-Centric AI:** Focusing on data quality, privacy (Differential Privacy), and robust data pipelines.
+
+**Current Focus:**
+
+- **Graduate Research Intern @ IIT Jammu:**
+- **Open Source Contribution:** Lastly  attempting a contribution to Opacus (Meta's library for Differential Privacy in PyTorch) which I am presenting at Kochi FOSS on October 24th, 2026
+- **Finishing What I Started:**
+
+## A Bit About My Academic Life:
+
+I started my journey in computer science and engineering. Post that I joined the IIT Madras Online Diploma in Data Science and Applications. That foundation gave me a deep appreciation for building things that people can actually use. It was this curiosity that eventually pulled me into the AI rabbit hole. Now, I'm  into closing the gap between a research paper and a production-ready intelligent system
+
+[Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_August_27th_2026.pdf)
 
 
+## Beyond the Code
 
-            
+When I'm not training models or debugging code, you'll likely find me:
 
+-  Lost in thoughts
+-  Talking about Philososphy
+-  Exploring the best food spots around Kochi with my parents
 
+## Let's Collaborate!
 
-#### 💬 Ask me about anything  [here](https://github.com/intagliated/intagliated/issues)
+I'm always open to discussing new ideas, collaborating on interesting projects, or just chatting about the future of AI and data science. Feel free to reach out!
+[here](https://github.com/intagliated/intagliated/issues)
+
 
 
 
