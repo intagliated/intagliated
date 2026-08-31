@@ -12,7 +12,7 @@ I'm a PostGraduate in Data Science from  **Chennai Mathematical Institute** (htt
              1.   Introduction to Generative AI- Pranabendu Mishra 
              2.   Data Mining and Machine Learning - Madhavan Mukund 
 
-## What Keeps Me Busy (Besides Deadlines):
+## What Keeps Me Busy ??(Besides Deadlines):
 
 My work is a mix of broad research interests and specific, ongoing projects.
 
@@ -28,14 +28,14 @@ My work is a mix of broad research interests and specific, ongoing projects.
 - **Open Source Contribution:** Lastly  attempting a contribution to Opacus (Meta's library for Differential Privacy in PyTorch) which I am presenting at Kochi FOSS on October 24th, 2026
 - **Finishing What I Started:**
 
-## A Bit About My Academic Life:
+##  My Academic Life:
 
 I started my journey in computer science and engineering. Post that I joined the IIT Madras Online Diploma in Data Science and Applications. That foundation gave me a deep appreciation for building things that people can actually use. It was this curiosity that eventually pulled me into the AI rabbit hole. Now, I'm  into closing the gap between a research paper and a production-ready intelligent system
 
 [Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_August_31th_2026.pdf)
 
 
-## Beyond the Code
+## Beyond Work
 
 When I'm not training models or debugging code, you'll likely find me:
 
@@ -43,7 +43,7 @@ When I'm not training models or debugging code, you'll likely find me:
 -  Talking about Philososphy
 -  Exploring the best food spots around Kochi with my parents
 
-## Let's Collaborate!
+## For Collaborations !
 
 I'm always open to discussing new ideas, collaborating on interesting projects, or just chatting about the future of AI and data science. Feel free to reach out!
 [here](https://github.com/intagliated/intagliated/issues)
