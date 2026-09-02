@@ -5,21 +5,21 @@ I am Maria Paul T
 
 Glad to see you here !
 
-I'm a PostGraduate in Data Science from  **Chennai Mathematical Institute** (https://www.cmi.ac.in/)  diving deep into the world of applied AI and building robust, real-world systems. My mission? To bridge the gap between cutting-edge research and production-ready solutions. My core passion lies in making AI more accessible, efficient, and grounded—from building synthetic data generation pipelines to ensuring data privacy.
+I'm a PostGraduate in Data Science from  **Chennai Mathematical Institute** (https://www.cmi.ac.in/).My core passion lies in making AI more accessible, efficient, and grounded—from building data generation pipelines to ensuring data privacy.
 
 
 #####   Relevent Course Work  at CMI
              1.   Introduction to Generative AI- Pranabendu Mishra 
              2.   Data Mining and Machine Learning - Madhavan Mukund 
 
-## What Keeps Me Busy ??(Besides Deadlines):
+## What Keeps Me Busy?
 
 My work is a mix of broad research interests and specific, ongoing projects.
 
 **Core Interests:**
 
 - **Generative AI & LLMs:** Exploring the frontiers of synthetic data, model distillation, and prompt engineering.
-- **MLOps & Deployment:** Containerizing models, setting up end-to-end pipelines, and deploying models as microservices.
+- **MLOps & Deployment:** Containerizing models, setting up end-to-end pipelines, and deploying models .
 - **Data-Centric AI:** Focusing on data quality, privacy (Differential Privacy), and robust data pipelines.
 
 **Current Focus:**
@@ -39,7 +39,6 @@ I started my journey in computer science and engineering. Post that I joined the
 
 When I'm not training models or debugging code, you'll likely find me:
 
--  Lost in thoughts
 -  Talking about Philososphy
 -  Exploring the best food spots around Kochi with my parents
 
