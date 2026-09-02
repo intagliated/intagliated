@@ -5,7 +5,7 @@ I am Maria Paul T
 
 Glad to see you here !
 
-I'm a PostGraduate in Data Science from  **Chennai Mathematical Institute** (https://www.cmi.ac.in/).My core passion lies in making AI more accessible, efficient, and grounded—from building data generation pipelines to ensuring data privacy.
+I'm a PostGraduate in Data Science from  **Chennai Mathematical Institute** (https://www.cmi.ac.in/). My core passion lies in making AI more accessible, efficient, and grounded—from building data generation pipelines to ensuring data privacy.
 
 
 #####   Relevent Course Work  at CMI
