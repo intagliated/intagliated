@@ -25,7 +25,7 @@ My work is a mix of broad research interests and specific, ongoing projects.
 **Current Focus:**
 
 - **Graduate Research Intern @ IIT Jammu:**
-- **Open Source Contribution:** Lastly  attempting a contribution to Opacus (Meta's library for Differential Privacy in PyTorch) which I am presenting at Kochi FOSS on October 24th, 2026
+- **Open Source Contribution:** Lastly  attempting a contribution to Opacus (Meta's library for Differential Privacy in PyTorch) which I am presenting at Kochi FOSS  and Mumbai FOSS on October, 2026
 - **Finishing What I Started:**
 
 ##  My Academic Life:
