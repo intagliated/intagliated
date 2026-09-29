@@ -16,15 +16,15 @@ I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](cmi.ac
 
 My work is a mix of broad research interests and specific, ongoing projects.
 
-**Core Interests:**
+**Interests:**
 
-- **Generative AI & LLMs:** Exploring the frontiers of synthetic data, model distillation, and prompt engineering.
-- **MLOps & Deployment:** Containerizing models, setting up end-to-end pipelines, and deploying models .
-- **Data-Centric AI:** Focusing on data quality, privacy (Differential Privacy), and robust data pipelines.
+- **Generative Artificial Intelligence:** Exploring the frontiers of model distillation, multimodal artificial intelligence, multilngual llms.
+- **Deployment:** Containerizing models, setting up end-to-end pipelines, and deploying models .
+- **Data-Centracy in Machine Learning :** Focusing on data quality, privacy (Differential Privacy), and robust data pipelines.
 
 **Current Focus:**
 
-- **Graduate Research Intern @ IIT Jammu:**
+- Working on Project **MIRA(Multlingual Indic Reasoning Ability)** in Collaboration with CMI and IIT Jammu
 - **Open Source Contribution:** Lastly  attempting a contribution to Opacus (Meta's library for Differential Privacy in PyTorch) which I am presenting at Kochi FOSS  and Mumbai FOSS on October, 2026
 - **Finishing What I Started:**
 
