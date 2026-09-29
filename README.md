@@ -12,6 +12,10 @@ I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](cmi.ac
              1.   Introduction to Generative AI- Pranabendu Mishra 
              2.   Data Mining and Machine Learning - Madhavan Mukund 
 
+#####  Current CourseWork as part of the Online Diploma by IIT Madras 
+        1. System Commands 
+        2. Programming, Data Structures in Python        
+
 ## What Keeps Me Busy?
 
 My work is a mix of broad research interests and specific, ongoing projects.
