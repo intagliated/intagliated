@@ -20,12 +20,6 @@ I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](cmi.ac
 
 My work is a mix of broad research interests and specific, ongoing projects.
 
-**Interests:**
-
-- **Generative Artificial Intelligence:** Exploring the frontiers of model distillation, multimodal artificial intelligence, multilngual llms.
-- **Deployment:** Containerizing models, setting up end-to-end pipelines, and deploying models .
-- **Data-Centracy in Machine Learning :** Focusing on data quality, privacy (Differential Privacy), and robust data pipelines.
-
 **Current Focus:**
 
 - Working on Project **MIRA(Multlingual Indic Reasoning Ability)** in Collaboration with CMI and IIT Jammu
