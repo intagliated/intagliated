@@ -46,12 +46,3 @@ When I'm not training models or debugging code, you'll likely find me:
 
 I'm always open to discussing new ideas, collaborating on interesting projects, or just chatting about the future of AI and data science. Feel free to reach out!
 [here](https://github.com/intagliated/intagliated/issues)
-
-
-
-
-
-
-
-
-
