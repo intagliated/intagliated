@@ -8,10 +8,6 @@ Glad to see you here !
 I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](cmi.ac.in). My core passion lies in making AI more accessible, efficient, and grounded—from building data generation pipelines to ensuring data privacy.
 
 
-#####   Relevent Course Work  at CMI
-             1.   Introduction to Generative AI- Pranabendu Mishra 
-             2.   Data Mining and Machine Learning - Madhavan Mukund 
-
 #####  Current CourseWork as part of BS in Data Science and Applications by  IIT Madras 
         1. System Commands 
         2. Programming, Data Structures in Python        
