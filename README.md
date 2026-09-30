@@ -26,7 +26,7 @@ My work is a mix of broad research interests and specific, ongoing projects.
 
 I started my journey in computer science and engineering. Post that I joined the IIT Madras Online B.S in Data Science and Applications. That foundation gave me a deep appreciation for building things that people can actually use. It was this curiosity that eventually pulled me into the AI rabbit hole. Now, I'm  into closing the gap between a research paper and a production-ready intelligent system
 
-[Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_Veramed_September_23rd_2026.pdf)
+[Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_ShelfRadar_September_30th_2026.pdf)
 
 
 ## Beyond Work
