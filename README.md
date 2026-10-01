@@ -24,7 +24,7 @@ My work is a mix of broad research interests and specific, ongoing projects.
 
 ##  My Academic Life:
 
-I started my  journey in Computer Sciennce and Engineering. However the coursework didn't capture much of my interest and I gradually lost interest in what was being taught. Post that I joined the IIT Madras Online B.S in Data Science and Applications. This coursework helped me understand the mathematical and statistical foundatiions that were helpful in clearning the entrance test for Chennai Mathematical Instituite. Now, I'm  working on projects that  can  hopefullly close  the gap between a research paper and a production-ready intelligent system.
+I started my  journey in Computer Science and Engineering. However the coursework didn't capture much of my interest and I gradually lost interest in what was being taught. Post that I joined the IIT Madras Online B.S in Data Science and Applications. This coursework helped me understand the mathematical and statistical foundatiions that were helpful in clearning the entrance test for Chennai Mathematical Instituite. Now, I'm  working on projects that  would be helpful to bridge the gap between a research paper and a production-ready intelligent system.
 
 [Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_ShelfRadar_September_30th_2026.pdf)
 
