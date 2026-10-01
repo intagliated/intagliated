@@ -31,9 +31,7 @@ I started my journey in computer science and engineering. Post that I joined the
 
 ## Beyond Work
 
-When I'm not training models or debugging code, you'll likely find me:
-
--  Talking about Philososphy
+-  Philososphy
 -  Exploring the best food spots around Kochi with my parents
 
 ## For Collaborations !
