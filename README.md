@@ -18,10 +18,6 @@ I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](cmi.ac
 - **Open Source Contribution:** Lastly  attempting a contribution to Opacus (Meta's library for Differential Privacy in PyTorch) which I am presenting at Kochi FOSS  and Mumbai FOSS on October, 2026
 - **Finishing What I Started:**
 
-##  My Academic Life:
-
-I started my  journey in Computer Science and Engineering. However the coursework didn't capture much of my interest and I gradually lost interest in what was being taught. Post that I joined the IIT Madras Online B.S in Data Science and Applications. This coursework helped me understand the mathematical and statistical foundatiions that were helpful in clearing the entrance test for Chennai Mathematical Instituite. Now, I'm  working on projects that  would be helpful to bridge the gap between a research paper and a production-ready intelligent system.
-
 [Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_ShelfRadar_September_30th_2026.pdf)
 
 
