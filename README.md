@@ -12,10 +12,6 @@ I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](cmi.ac
         1. System Commands 
         2. Programming, Data Structures in Python        
 
-## What Keeps Me Busy?
-
-My work is a mix of broad research interests and specific, ongoing projects.
-
 **Current Focus:**
 
 - Working on Project **MIRA(Multlingual Indic Reasoning Ability)** in Collaboration with CMI and IIT Jammu
