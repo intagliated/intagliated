@@ -10,7 +10,8 @@ I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](cmi.ac
 
 </p>
 
-
+<img src="https://github.com/intagliated/intagliated/blob/main/Malayalam%20(2).png" height= "30%" width="15%">
+<br>
 #####  Current CourseWork as part of BS in Data Science and Applications by  IIT Madras 
         1. System Commands 
         2. Programming, Data Structures in Python        
@@ -21,16 +22,12 @@ This was my first deep dive into the R&D side of   GenAI. I worked on two core p
 2. **Legal Infographic Generation:** Building systems to automatically generate visual infographics from dense legal documents.
 
 ---
-
-
-<img src="https://github.com/intagliated/intagliated/blob/main/Malayalam.png" height= "50%" width="50%">
-
-
 **Current Focus:**
 
 - Working on Project **MIRA(Multlingual Indic Reasoning Ability)** in Collaboration with CMI and IIT Jammu
 - **Open Source Contribution:** Lastly  attempting a contribution to Opacus (Meta's library for Differential Privacy in PyTorch) which I am presenting at Kochi FOSS  and Mumbai FOSS on October, 2026
 - **Finishing What I Started:**
+
 
 [Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_ShelfRadar_September_30th_2026.pdf)
 
@@ -45,3 +42,7 @@ This was my first deep dive into the R&D side of   GenAI. I worked on two core p
 
 I'm always open to discussing new ideas, collaborating on interesting projects, or just chatting about the future of AI and data science. Feel free to reach out!
 [here](https://github.com/intagliated/intagliated/issues)
+
+
+
+
