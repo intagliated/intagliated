@@ -8,6 +8,9 @@ Glad to see you here !
 I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](cmi.ac.in).
 
 
+</p>
+
+
 #####  Current CourseWork as part of BS in Data Science and Applications by  IIT Madras 
         1. System Commands 
         2. Programming, Data Structures in Python        
@@ -18,6 +21,9 @@ This was my first deep dive into the R&D side of   GenAI. I worked on two core p
 2. **Legal Infographic Generation:** Building systems to automatically generate visual infographics from dense legal documents.
 
 ---
+
+
+<img src="https://github.com/intagliated/intagliated/blob/main/Malayalam.png" height= "50%" width="50%">
 
 
 **Current Focus:**
@@ -33,6 +39,7 @@ This was my first deep dive into the R&D side of   GenAI. I worked on two core p
 
 -  Philososphy
 -  Exploring the best food spots around Kochi with my parents
+
 
 ##### For Collaborations !
 
