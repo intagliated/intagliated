@@ -23,8 +23,8 @@ Current CourseWork as part of BS in Data Science and Applications by  IIT Madras
 #### Research Intern: IIT Bhilai 
 
 This was my first deep dive into the R&D side of   GenAI. I worked on two core projects: <br>
-1. **Technical Image Understanding of LLMs:** Exploring how Large Language Models process and interpret complex technical imagery.
-2. **Legal Infographic Generation:** Building systems to automatically generate visual infographics from dense legal documents.
+1. **Technical Image Understanding of LLMs:**  Exploring how Large Language Models process and interpret complex technical images.
+2. **Legal Infographic Generation:**    Building systems to automatically generate visual infographics from dense legal documents.
 
 ---
 **Current Focus:**
