@@ -30,7 +30,7 @@ This was my first deep dive into the R&D side of   GenAI. I worked on two core p
 **Current Focus:**
 
 - Working on Project **MIRA(Multlingual Indic Reasoning Ability)** in Collaboration with CMI and IIT Jammu
-- **Open Source Contribution:** Lastly  attempting a contribution to Opacus (Meta's library for Differential Privacy in PyTorch) which I am presenting at Kochi FOSS  and Mumbai FOSS on October, 2026
+- **Open Source Contribution:** Lastly  attempting a contribution to Opacus (Meta's library for Differential Privacy in PyTorch) which I am presenting at Kochi FOSS   on October, 2026
 - **Finishing What I Started:**
 
 
