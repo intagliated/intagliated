@@ -6,7 +6,7 @@ I am Maria Paul T
 
 Glad to see you here !
 
-I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](cmi.ac.in).
+I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](https://www.cmi.ac.in).
 
 
 </p>
