@@ -18,7 +18,7 @@ Current CourseWork as part of BS in Data Science and Applications by  IIT Madras
         1. System Commands 
         2. Programming, Data Structures in Python  
 
-  I am also  covering Stanford CME2952026  Transformers & LLMs  <br>      
+Stanford CME2952026  Transformers & LLMs  <br>      
 
 #### Research Intern: IIT Bhilai 
 
