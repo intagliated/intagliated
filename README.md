@@ -34,7 +34,7 @@ This was my first deep dive into the R&D side of   GenAI. I worked on two core p
 - **Finishing What I Started:**
 
 
-[Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_ShelfRadar_September_30th_2026.pdf)
+[Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_Barclays_October_12th_2026.pdf)
 
 
 #### Beyond Work
