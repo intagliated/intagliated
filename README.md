@@ -3,38 +3,48 @@
 
 I am Maria Paul T
 
-
-Glad to see you here !
-
 I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](https://www.cmi.ac.in).
 
+<br>
 
 </p>
 
+
+
+
+
+
+
+
+
+- Project **MIRA(Multlingual Indic Reasoning Ability)** in Collaboration with CMI and IIT Jammu
+- **Open Source Contribution:** Lastly  attempting a contribution to Opacus (Meta's library for Differential Privacy in PyTorch) which I am presenting at Kochi FOSS   and MumbaiFOSS on October, 2026
+- **Finishing What I Started:**
+
+[Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_Barclays_October_12th_2026.pdf)
 
 <br>
 Current CourseWork as part of BS in Data Science and Applications by  IIT Madras <br>
 
         1. System Commands 
         2. Programming, Data Structures in Python  
+<br>
 
-Stanford CME2952026  Transformers & LLMs  <br>      
+Other Work :
 
-#### Research Intern: IIT Bhilai 
+1. Algorithms for Data Science (ADS) -Differential Privacy <br>
+
+2. Stanford CME2952026  Transformers & LLMs  <br>
+
+3.  MetaResearch Agent
+
+#### Summer Intern: IIT Bhilai 
 
 This was my first deep dive into the R&D side of   GenAI. I worked on two core projects: <br>
-1. **Technical Image Understanding of LLMs:**  Exploring how Large Language Models process and interpret complex technical images.
-2. **Legal Infographic Generation:**    Building systems to automatically generate visual infographics from dense legal documents.
-
----
-**Current Focus:**
-
-- Working on Project **MIRA(Multlingual Indic Reasoning Ability)** in Collaboration with CMI and IIT Jammu
-- **Open Source Contribution:** Lastly  attempting a contribution to Opacus (Meta's library for Differential Privacy in PyTorch) which I am presenting at Kochi FOSS   and MumbaiFOSS on October, 2026
-- **Finishing What I Started:**
+1. **Technical Image Understanding of LLMs:**  
+2. **Legal Infographic Generation:**   
 
 
-[Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_Barclays_October_12th_2026.pdf)
 
 
 #### Beyond Work
