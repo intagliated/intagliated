@@ -6,13 +6,12 @@ I am Maria Paul T
 I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](https://www.cmi.ac.in).
 
 <br>
+<br>
 
-**Major Focus** :
-</p>
-
-1. Project **MIRA(Multlingual Indic Reasoning Ability)** in Collaboration with CMI and IIT Jammu
-2. **Open Source Contribution:** Lastly  attempting a contribution to Opacus (Meta's library for Differential Privacy in PyTorch) which I am presenting at Kochi FOSS   and MumbaiFOSS on October, 2026
-3. **Finishing What I Started:**
+      1. Project MIRA(Multlingual Indic Reasoning Ability) in Collaboration with CMI and IIT Jammu
+      2. Attempted Contribution to Opacus (Meta's library for Differential Privacy in PyTorch) 
+         presenting at Kochi FOSS and MumbaiFOSS on October, 2026
+      3. Finishing What I Started: 
 
 [Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_Barclays_October_12th_2026.pdf)
 
