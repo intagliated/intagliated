@@ -1,4 +1,4 @@
-# Hi There! 👋
+# Hi There!
 
 
 I am Maria Paul T
@@ -7,19 +7,12 @@ I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](https:
 
 <br>
 
+**Major Focus** :
 </p>
 
-
-
-
-
-
-
-
-
-- Project **MIRA(Multlingual Indic Reasoning Ability)** in Collaboration with CMI and IIT Jammu
-- **Open Source Contribution:** Lastly  attempting a contribution to Opacus (Meta's library for Differential Privacy in PyTorch) which I am presenting at Kochi FOSS   and MumbaiFOSS on October, 2026
-- **Finishing What I Started:**
+1. Project **MIRA(Multlingual Indic Reasoning Ability)** in Collaboration with CMI and IIT Jammu
+2. **Open Source Contribution:** Lastly  attempting a contribution to Opacus (Meta's library for Differential Privacy in PyTorch) which I am presenting at Kochi FOSS   and MumbaiFOSS on October, 2026
+3. **Finishing What I Started:**
 
 [Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_Barclays_October_12th_2026.pdf)
 
@@ -30,21 +23,12 @@ Current CourseWork as part of BS in Data Science and Applications by  IIT Madras
         2. Programming, Data Structures in Python  
 <br>
 
-Other Work :
-
-1. Algorithms for Data Science (ADS) -Differential Privacy <br>
-
-2. Stanford CME2952026  Transformers & LLMs  <br>
-
-3.  MetaResearch Agent
-
-#### Summer Intern: IIT Bhilai 
-
-This was my first deep dive into the R&D side of   GenAI. I worked on two core projects: <br>
-1. **Technical Image Understanding of LLMs:**  
-2. **Legal Infographic Generation:**   
+**Other Work** :
 
 
+1. Developing MetaResearch Agent as part of  Practical Agentic AI Workshop Series by Raghav Kulkarni, CMI
+2. Algorithms for Data Science (ADS) - Differential Privacy <br>
+3. Stanford CME2952026  Transformers & LLMs  <br>
 
 
 #### Beyond Work
