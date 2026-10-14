@@ -36,6 +36,7 @@ Current CourseWork as part of BS in Data Science and Applications by  IIT Madras
 2. Algorithms for Data Science (ADS) - Differential Privacy <br>
 3. Stanford CME2952026  Transformers & LLMs  <br>
 4. SQL 50 leetcode.com/problem-list/2ktekjs5/
+5. Forecasting https://nixtlaverse.nixtla.io/mlforecast
 
 
 #### Beyond Work
