@@ -20,7 +20,7 @@ I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](https:
      presenting at Kochi FOSS and MumbaiFOSS on October, 2026
  3.  Finishing What I Started: 
 
-[Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_Barclays_October_12th_2026.pdf)
+[Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_Lyric_October_14th_2026.pdf)
 
 <br>
 Current CourseWork as part of BS in Data Science and Applications by  IIT Madras <br>
