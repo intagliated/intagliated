@@ -16,9 +16,6 @@ I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](https:
 
 
 
-<img src= "https://github.com/intagliated/intagliated/blob/main/Malayalam.png" height= "30%" width="15%">
-
-
 
 <br>
 <br>
