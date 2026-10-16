@@ -11,15 +11,22 @@ I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](https:
 <br>
 <img src= "https://github.com/intagliated/intagliated/blob/main/Malayalam.png" height= "30%" width="15%">
 
-[Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_Lyric_October_14th_2026.pdf)
+
+<img src= "https://github.com/intagliated/intagliated/blob/main/Malayalam.png" height= "30%" width="15%">
+
+
+
+<img src= "https://github.com/intagliated/intagliated/blob/main/Malayalam.png" height= "30%" width="15%">
+
+
 
 <br>
 <br>
 
-       1.  Project MIRA(Multlingual Indic Reasoning Ability) in Collaboration with CMI and IIT Jammu
-       2.  Attempted Contribution to Opacus (Meta's library for Differential Privacy in PyTorch) 
-           presenting at Kochi FOSS and MumbaiFOSS on October, 2026
-       3.  Finishing What I Started: 
+       -  Project MIRA(Multlingual Indic Reasoning Ability) in Collaboration with CMI and IIT Jammu 
+       -  Attempted Contribution to Opacus (Meta's library for Differential Privacy in PyTorch) 
+       presenting at Kochi FOSS and MumbaiFOSS on October, 2026 
+       -  Finishing What I Started: <br>
 
 
 
@@ -30,7 +37,10 @@ Current CourseWork as part of BS in Data Science and Applications by  IIT Madras
         2. Programming, Data Structures in Python  
 <br>
 
-**Other Work** :
+[Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_Lyric_October_14th_2026.pdf)
+
+**Other Work** :<br>
+        
 
 
         1. Developing MetaResearch Agent as part of  Practical Agentic AI Workshop Series by Raghav Kulkarni, CMI
@@ -53,6 +63,9 @@ Current CourseWork as part of BS in Data Science and Applications by  IIT Madras
 
 I'm always open to discussing new ideas, collaborating on interesting projects, or just chatting about the future of AI and data science. Feel free to reach out!
 [here](https://github.com/intagliated/intagliated/issues)
+
+
+
 
 
 
