@@ -18,7 +18,6 @@ I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](https:
 
        -  Project MIRA(Multlingual Indic Reasoning Ability) in Collaboration with CMI and IIT Jammu 
        -  Attempted Contribution to Opacus (Meta's library for Differential Privacy in PyTorch) 
-       presenting at Kochi FOSS and MumbaiFOSS on October, 2026 
        -  Finishing What I Started: 
 
 
