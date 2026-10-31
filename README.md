@@ -9,14 +9,11 @@ I am Maria Paul T
 I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](https://www.cmi.ac.in).
 
 <br>
-
-
-<img src ="https://github.com/intagliated/intagliated/blob/main/If%20a%20person%20is%20born%20deaf%2C%20in%20which%20language%20does___.jpg">
-
 <br>
 <br>
 
-       -  Project MIRA(Multlingual Indic Reasoning Ability) in Collaboration with CMI and IIT Jammu 
+       -  Project MIRA(Multlingual Indic Reasoning Ability) in Collaboration with CMI and IIT Jammu
+       -  ResearchDen Project
        -  Attempted Contribution to Opacus (Meta's library for Differential Privacy in PyTorch) 
        -  Finishing What I Started: 
 
