@@ -18,7 +18,7 @@ I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](https:
        -  Finishing What I Started: 
 
 
-[Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_November_2nd_2026.pdf)
+[Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_November_5th_HP.pdf)
 
 
 I'm always open to discussing new ideas, collaborating on interesting projects, or just chatting about the future of AI and data science. Feel free to reach out!
