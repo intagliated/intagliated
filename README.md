@@ -10,21 +10,18 @@ I'm a PostGraduate in Data Science from [Chennai Mathematical Instituite](https:
 <br>
 
 <img src= "https://github.com/intagliated/intagliated/blob/main/Malayalam.png" height= "30%" width="15%">
-<br>
-<br>
-<br>
+
+<!-- <br>
 
        -  Project MIRA(Multlingual Indic Reasoning Ability) in Collaboration with CMI and IIT Jammu
        -  ResearchDen Project
        -  Attempted Contribution to Opacus (Meta's library for Differential Privacy in PyTorch) 
-       -  Finishing What I Started: 
-
+       -  Finishing What I Started:  -->
+ 
 
 [Link to Resume](https://github.com/intagliated/intagliated/blob/main/Maria%20Thurkdayil%20-%20CMI_Resume_November_17th%20%20.pdf)
 
-<br>
-<br>
-<br>
+
 
 I'm always open to discussing new ideas, collaborating on interesting projects, or just chatting about the future of AI and data science. Feel free to reach out!
 [here](https://github.com/intagliated/intagliated/issues)
